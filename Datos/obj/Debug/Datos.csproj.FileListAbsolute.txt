@@ -1,0 +1,10 @@
+C:\Users\yuri\Documents\C#\Datos\Datos\bin\Debug\Datos.exe.config
+C:\Users\yuri\Documents\C#\Datos\Datos\bin\Debug\Datos.exe
+C:\Users\yuri\Documents\C#\Datos\Datos\bin\Debug\Datos.pdb
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.Form1.resources
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.exe
+C:\Users\yuri\Documents\C#\Datos\Datos\obj\Debug\Datos.pdb
